@@ -60,6 +60,9 @@ Step 7: Finalize and Export
 
 
 # Output
+https://drive.google.com/file/d/17gQb6qU4lj-nXR92D9l46fFMZVMTHmIO/view?usp=drivesdk
 
 
 # Result
+The experiment shows that Generative AI is built on neural networks, probabilistic modeling, and representation learning. Transformer architectures play a key role by enabling parallel processing and scalability.
+Generative AI has applications in text, images, healthcare, education, business, and entertainment.Scaling Large Language Models improves performance and brings emergent abilities.However, challenges like bias, cost, and ethics must be managed responsibly.Thus,the experiment confirms that Generative AI is a transformative field that not only extends the capabilities of machines to create but also shapes the future of technology across industries.
